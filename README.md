@@ -1,6 +1,6 @@
 # Hi, I'm R. Santos 👋
 
-I'm a security engineer in the making, coming from a background in malware analysis and defensive cyber operations and transitioning toward security and detection engineering.
+I'm currently a malware analyst, with experience in incident response and cyber operations, looking to transition into a software engineering role focused on security or threat detection
 
 I care about building tools that are well-structured, useful, and grounded in real security problems. I enjoy building security tooling, detection pipelines, and backend services that translate analyst workflows into reliable engineering systems.
 
