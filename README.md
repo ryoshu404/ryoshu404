@@ -8,15 +8,17 @@ I care about building tools that are well-structured, useful, and grounded in re
 
 ## 🔨 Featured Project
 
-**[Statica](https://github.com/ryoshu404/statica)** — A format-agnostic static analysis pipeline in Python. Extracts hashes, strings, and IOC patterns from files and produces structured JSON output designed for automated security workflows and analysis pipelines.
+**[Statica](https://github.com/ryoshu404/statica)** - A format-agnostic static analysis pipeline in Python. Extracts hashes, strings, and IOC patterns from files and produces structured JSON output designed for automated security workflows and analysis pipelines.
+
+**[macollect](https://github.com/ryoshu404/macollect)** - A modular macOS forensic artifact collector in Python. Collects persistence mechanisms, process snapshots, code signing metadata, TCC permissions, and Unified Log activity across eight independent collection modules. Designed for enterprise IR deployment with zero third-party dependencies.
 
 ---
 
 ## 🚧 Up Next
 
-- **macOS DFIR Collector** — An endpoint telemetry and artifact collection tool for macOS, focused on persistence mechanisms, process activity, and security-relevant system state
-- **IOC Correlation Service** — A threat intel pipeline in Go that ingests, normalizes, and queries indicators of compromise across public feeds
-
+- **IOC Correlation Service** - A threat intel pipeline in Go that ingests, normalizes, and queries indicators of compromise across public feeds
+- **Swift ESF Telemetry Tool** - Real-time kernel event streaming companion to macollect using Apple's Endpoint Security Framework
+- 
 ---
 
 ## 🛠 Languages & Tools
@@ -31,5 +33,5 @@ I care about building tools that are well-structured, useful, and grounded in re
 
 ## 📚 Currently Learning
 
-- Go — backend systems and service development
+- Go - backend systems and service development
 - macOS internals and endpoint security frameworks
