@@ -6,7 +6,7 @@ I care about building tools that are well-structured, useful, and grounded in re
 
 ---
 
-## 🔨 Featured Project
+## 🔨 Featured Projects
 
 **[Statica](https://github.com/ryoshu404/statica)** - A format-agnostic static analysis pipeline in Python. Extracts hashes, strings, and IOC patterns from files and produces structured JSON output designed for automated security workflows and analysis pipelines.
 
