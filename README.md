@@ -1,8 +1,6 @@
 # Hi, I'm R. Santos 👋
 
-I'm currently a malware analyst, with experience in incident response and cyber operations, looking to transition into a software engineering role focused on security or threat detection
-
-I care about building tools that are well-structured, useful, and grounded in real security problems. I enjoy building security tooling, detection pipelines, and backend services that translate analyst workflows into reliable engineering systems.
+Security engineer with 7+ years in cyber operations, malware analysis, and incident response. I build detection pipelines, endpoint security tooling, and backend services grounded in real security problems.
 
 ---
 
@@ -26,13 +24,17 @@ I care about building tools that are well-structured, useful, and grounded in re
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Security:** Ghidra · IDA Pro · x64dbg · FLARE VM · Microsoft XDR · Splunk · KQL
+**Security:** Ghidra · IDA Pro · x64dbg · FLARE VM · Microsoft XDR · Splunk · KQL · SQL
 
 ---
 
 ## 📚 Currently Learning
 
-- Go - backend systems and service development
-- macOS internals and endpoint security frameworks
+- **Go** — backend systems and service development
+- **Rust** — systems programming and zero-dependency tooling
+- **Swift** — macOS platform development and Endpoint Security Framework
+- **macOS internals** — kernel APIs, persistence mechanisms, endpoint security frameworks
