@@ -6,9 +6,9 @@ Security engineer with 7+ years in cyber operations, malware analysis, and incid
 
 ## 🔨 Featured Projects
 
-**[Statica](https://github.com/ryoshu404/statica)** - A format-agnostic static analysis pipeline in Python. Extracts hashes, strings, and IOC patterns from files and produces structured JSON output designed for automated security workflows and analysis pipelines.
-
 **[macollect](https://github.com/ryoshu404/macollect)** - A modular macOS forensic artifact collector in Python. Collects persistence mechanisms, process snapshots, code signing metadata, TCC permissions, and Unified Log activity across eight independent collection modules. Designed for enterprise IR deployment with zero third-party dependencies.
+
+**[Statica](https://github.com/ryoshu404/statica)** - A format-agnostic static analysis pipeline in Python. Extracts hashes, strings, and IOC patterns from files and produces structured JSON output designed for automated security workflows and analysis pipelines.
 
 ---
 
