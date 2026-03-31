@@ -10,6 +10,8 @@ Security engineer with 7+ years in cyber operations, malware analysis, and incid
 
 **[Statica](https://github.com/ryoshu404/statica)** - A format-agnostic static analysis pipeline in Python. Extracts hashes, strings, and IOC patterns from files and produces structured JSON output designed for automated security workflows and analysis pipelines.
 
+**[gorelate (In Development)](https://github.com/ryoshu404/gorelate)** - A threat intel pipeline in Go that ingests, normalizes, and queries indicators of compromise across public feeds
+
 ---
 
 ## 🚧 Up Next
