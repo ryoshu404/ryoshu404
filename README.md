@@ -16,7 +16,6 @@ Security engineer with 7+ years in cyber operations, malware analysis, and incid
 
 ## 🚧 Up Next
 
-- **IOC Correlation Service** - A threat intel pipeline in Go that ingests, normalizes, and queries indicators of compromise across public feeds
 - **Swift ESF Telemetry Tool** - Real-time kernel event streaming companion to macollect using Apple's Endpoint Security Framework
 - **statica-rs** - A zero-dependency Rust port of Statica. Identical functionality as a single compiled binary - no Python runtime required, drop-in deployment for isolated analysis environments.
 
