@@ -1,10 +1,3 @@
-## 📚 Currently Learning
-
-- **Go** — backend systems and service development
-- **Rust** — systems programming and zero-dependency tooling
-- **Swift** — macOS platform development and Endpoint Security Framework
-- **macOS internals** — kernel APIs, persistence mechanisms, endpoint security frameworks
-
 # Hi, I'm R. Santos 👋
 
 Security engineer building production tooling in Python, Go, and Rust with a focus on static analysis, DFIR, threat intelligence and detection.
