@@ -8,7 +8,7 @@ Background: 5 years Security Engineering at USAF (malware analysis, incident res
 
 ## 🔨 Featured Projects
 
-**[Statica](https://github.com/ryoshu404/statica)** — Format-agnostic static analysis pipeline in Python. Extracts hashes, strings, and IOC patterns; produces deterministic, deduplicated JSON for downstream automation. Operationally adopted by my USAF malware analysis team.
+**[Statica](https://github.com/ryoshu404/statica)** — Format-agnostic static analysis pipeline in Python. Extracts hashes, strings, and IOC patterns; produces deterministic, deduplicated JSON for downstream automation.
 
 **[gorelate](https://github.com/ryoshu404/gorelate)** *(in development)* — Threat intelligence pipeline in Go. Ingests public IOC feeds (OTX, URLHaus, abuse.ch), correlates across sources, confidence-scores by source count, and generates YARA stubs with LLM-assisted triage summaries. Target ship: late 2026.
 
