@@ -2,7 +2,7 @@
 
 Security engineer building production tooling in Python, Go, and Rust with a focus on static analysis, DFIR, threat intelligence and detection.
 
-Background: 5 years Security Engineering at USAF (malware analysis, incident response, detection engineering) + 3 years SIGINT analysis at NSA.
+Background: 4+ years Security Engineering at USAF (malware analysis, incident response, detection engineering) + 3 years SIGINT analysis at NSA.
 
 ---
 
