@@ -22,14 +22,14 @@ Background: 5 years Security Engineering at USAF (malware analysis, incident res
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<!-- ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) -->
 
-**Security:** Ghidra · IDA Pro · x64dbg · FLARE VM · Microsoft XDR · Splunk · Falco · Sigma · KQL · SQL
+**Security:** Ghidra · IDA Pro · x64dbg · FLARE VM · Microsoft XDR · Splunk · Sigma · KQL · SQL
 
 ---
 
 ## 📚 Currently Learning
 
-- **Go** — backend systems and service development (Gorelate as capstone)
+- **Go** — backend systems and service development (Gorelate)
 - **Rust** — systems programming and zero-dependency tooling (porting Statica to Rust)
