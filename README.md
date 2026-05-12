@@ -8,9 +8,11 @@ Background: 4+ years Security Engineering at USAF (malware analysis, incident re
 
 ## 🔨 Featured Projects
 
+**[pydetect](https://github.com/ryoshu404/pydetect)** — Detection-as-code repository covering Sigma rules organized by attacker TTP across the telemetry stack. Python pytest harness with per-framework adapters; tests are generated from rule files at collection time, with fail-fast validation that prevents ship-without-test. Per-rule decision documentation. GitHub Actions CI.
+
 **[Statica](https://github.com/ryoshu404/statica)** — Format-agnostic static analysis pipeline in Python. Extracts hashes, strings, and IOC patterns; produces deterministic, deduplicated JSON for downstream automation.
 
-**[pydetect](https://github.com/ryoshu404/pydetect)** — Detection-as-code repository covering Sigma rules organized by attacker TTP across the telemetry stack. Python pytest harness with per-framework adapters; tests are generated from rule files at collection time, with fail-fast validation that prevents ship-without-test. Per-rule decision documentation. GitHub Actions CI.
+**[intelextract](https://github.com/ryoshu404/intelextract)** — Python CLI for extracting structured threat intelligence from threat-research text via the Anthropic API. Captures actors, malware, ATT&CK techniques, IOCs, and targeting context as deterministic JSON. Pydantic schema as single source of truth for both the tool's input_schema and response validation; forced tool-use contract; malformed output surfaces as explicit ValidationError.
 
 **[macollect](https://github.com/ryoshu404/macollect)** — Modular macOS forensic artifact collector in Python. Eight independent modules covering persistence mechanisms, process snapshots, code signing metadata, TCC permissions, and Unified Log activity. Zero third-party dependencies; read-only collection model.
 
