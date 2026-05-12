@@ -10,7 +10,7 @@ Background: 4+ years Security Engineering at USAF (malware analysis, incident re
 
 **[Statica](https://github.com/ryoshu404/statica)** — Format-agnostic static analysis pipeline in Python. Extracts hashes, strings, and IOC patterns; produces deterministic, deduplicated JSON for downstream automation.
 
-**[pydetect](https://github.com/ryoshu404/pydetect)** — Detection-as-code repository covering Sigma, Falco, and KQL rules organized by attacker TTP across the telemetry stack. Python pytest harness with per-framework adapters; tests are generated from rule files at collection time, with fail-fast validation that prevents ship-without-test. Per-rule decision documentation. GitHub Actions CI. Target ship: late 2026.
+**[pydetect](https://github.com/ryoshu404/pydetect)** — Detection-as-code repository covering Sigma rules organized by attacker TTP across the telemetry stack. Python pytest harness with per-framework adapters; tests are generated from rule files at collection time, with fail-fast validation that prevents ship-without-test. Per-rule decision documentation. GitHub Actions CI.
 
 **[macollect](https://github.com/ryoshu404/macollect)** — Modular macOS forensic artifact collector in Python. Eight independent modules covering persistence mechanisms, process snapshots, code signing metadata, TCC permissions, and Unified Log activity. Zero third-party dependencies; read-only collection model.
 
@@ -21,9 +21,9 @@ Background: 4+ years Security Engineering at USAF (malware analysis, incident re
 ## 🛠 Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-<!-- ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) -->
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<!--![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)-->
 
 **Security:** Ghidra · IDA Pro · x64dbg · FLARE VM · Microsoft XDR · Splunk · Sigma · KQL · SQL
 
