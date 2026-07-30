@@ -1,12 +1,14 @@
 # Hi, I'm R. Santos 👋
 
-Security engineer building production tooling in Python, Go, and Rust with a focus on static analysis, DFIR, threat intelligence and detection.
+Security engineer building security tooling and detection content in Python for static analysis, DFIR, threat intel, and detection engineering.
 
-Background: 4+ years Security Engineering at USAF (malware analysis, incident response, detection engineering) + 3 years SIGINT analysis at NSA.
+Background: 5 years Security Engineering at USAF (malware analysis, incident response) + 3 years SIGINT analysis at NSA.
 
 ---
 
 ## 🔨 Featured Projects
+
+<!---**[detection-lab](https://github.com/ryoshu404/detection-lab)** — Detection engineering lab provisioned end-to-end in Terraform: AWS telemetry sources (CloudTrail, GuardDuty, VPC Flow Logs → S3/SQS) and a two-node Proxmox cluster hosting a self-hosted Elastic SIEM, Fleet, and enrolled endpoints. All sources land as canonical ECS data streams; Sigma detections compiled by pySigma and deployed to the Detection Engine, with alerts pushed outbound to a Tines SOAR layer. Detection-as-code from rule source through burn-in to deployed rule, tuned against continuous endpoint telemetry. -->
 
 **[pydetect](https://github.com/ryoshu404/pydetect)** — Detection-as-code repository covering Sigma rules organized by attacker TTP across the telemetry stack. Python pytest harness with per-framework adapters; tests are generated from rule files at collection time, with fail-fast validation that prevents ship-without-test. Per-rule decision documentation. GitHub Actions CI.
 
@@ -27,11 +29,11 @@ Background: 4+ years Security Engineering at USAF (malware analysis, incident re
 <!--![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)-->
 
-**Security:** Ghidra · IDA Pro · x64dbg · FLARE VM · Microsoft XDR · Splunk · Sigma · KQL · SQL
+**Security:** Microsoft XDR · Splunk · Sigma · KQL · FLARE VM · REMnux · SQL · Elastic · Tines
 
 ---
 
 ## 📚 Currently Learning
 
-- **Go** — backend systems and service development (Gorelate)
-- **Rust** — systems programming and zero-dependency tooling (porting Statica to Rust)
+- **Go** — backend systems and service development
+- **Rust** — systems programming and zero-dependency tooling
