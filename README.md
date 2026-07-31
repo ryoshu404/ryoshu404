@@ -33,7 +33,7 @@ Background: 5 years Security Engineering at USAF (malware analysis, incident res
 
 ---
 
-## 📚 Currently Learning
+<!--## 📚 Currently Learning
 
 - **Go** — backend systems and service development
-- **Rust** — systems programming and zero-dependency tooling
+- **Rust** — systems programming and zero-dependency tooling -->
