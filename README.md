@@ -2,7 +2,7 @@
 
 Security engineer building security tooling and detection content in Python for static analysis, DFIR, threat intel, and detection engineering.
 
-Background: 5 years Security Engineering at USAF (malware analysis, incident response) + 3 years SIGINT analysis at NSA.
+Background: 4 years Security Engineering at USAF (malware analysis, incident response) + 3 years SIGINT analysis at NSA.
 
 ---
 
